@@ -1,0 +1,11 @@
+----------------------------------------------------------------------------
+1213 更新：
+
+0.  搜尋傳統藍芽 MAC Address
+1.  在 Android 6.0(或以上)的版本中，須加上
+ActivityCompat.requestPermissions(MainActivity.this, new String[]{Manifest.permission.ACCESS_FINE_LOCATION, Manifest.permission.ACCESS_COARSE_LOCATION}, 1001);
+
+才可以開始搜尋
+(permission request 參考：https://developer.android.com/training/permissions/requesting.html )
+
+2.  測試後，Asus(6.0)/HTC(6.0)/Samsung(5.11) 均可搜尋到 HK100

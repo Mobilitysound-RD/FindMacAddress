@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BluetoothのMACアドレス検索</string>
+    <string name="strStartScan">検索開始</string>
+    <string name="strClear">削除します</string>
+    <string name="strPressScan">検索「スタート」を押してください</string>
+    <string name="strFindMacAdd">検索Bluetoothデバイスアドレス</string>
+    <string name="strStopScan">検索を停止</string>
+    <string name="strCloseTagToWrite">書き込むデバイスの近く</string>
+    <string name="strWriteTagOK">書き込みTAG成功</string>
+    <string name="strWriteTagFail">タグの書き込みに失敗しました</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FindAddress</string>
+    <string name="strStartScan">START SCAN</string>
+    <string name="strClear">CLEAR</string>
+    <string name="strPressScan">Press Scan To search</string>
+    <string name="strFindMacAdd">Find MAC Address</string>
+    <string name="strStopScan">STOP SCAN</string>
+    <string name="strCloseTagToWrite">Close Tag to Write</string>
+    <string name="strWriteTagOK">Write Tag Successful</string>
+    <string name="strWriteTagFail">Write Tag Failed</string>
+</resources>

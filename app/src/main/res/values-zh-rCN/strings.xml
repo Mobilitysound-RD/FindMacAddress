@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">蓝芽MAC位址搜寻</string>
+    <string name="strStartScan">开始搜寻</string>
+    <string name="strClear">清除</string>
+    <string name="strPressScan">搜寻请按“开始”</string>
+    <string name="strFindMacAdd">搜寻蓝芽装置位址</string>
+    <string name="strStopScan">停止搜寻</string>
+    <string name="strCloseTagToWrite">靠近装置以写入</string>
+    <string name="strWriteTagOK">成功写入TAG</string>
+    <string name="strWriteTagFail">TAG写入失败</string>
+</resources>
